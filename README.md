@@ -1,4 +1,4 @@
-# Calorie Prediction
+# Calorie Prediction-Omah Ti Learning Center DSAI project
 The dataset given were about calories burned from male and females, each with different physical characteristics and endurance.
 The notebook contains calorie prediction with XGBRegressor model, and the Implementation of CRISP-DM method for Exploratory Data analysis.
 
